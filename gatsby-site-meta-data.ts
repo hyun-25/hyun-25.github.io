@@ -21,7 +21,7 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `박가현.`,
+    name: `박가현`,
     nickname: `Hyun`,
     stack: ['Frontend', 'React', 'Typescript'],
     bio: {
